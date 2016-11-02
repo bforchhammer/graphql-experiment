@@ -1,0 +1,5 @@
+graphene==1.0.2
+uvloop==0.5.4
+aiohttp==1.0.5
+gunicorn==19.6.0
+ujson==1.35
